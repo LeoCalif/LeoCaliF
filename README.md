@@ -16,7 +16,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ## 🚀 Projetos em destaque
 
-### 💸 Kifi — Controle de Gastos
+### 💸 Klif-Despesas — Controle de Gastos
 
 Sistema web para controle financeiro com backend integrado.
 
